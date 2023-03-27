@@ -14,7 +14,7 @@ Most of all I like to make indie games on Unity. I also enjoy developing website
 
 ## 👊 My Codewars:
 
-[![codewars](https://www.codewars.com/users/yranidro/badges/large)](https://www.codewars.com/users/xorti)
+[![codewars](https://www.codewars.com/users/xorti/badges/large)](https://www.codewars.com/users/xorti)
 
 ## 💬 Social media:
 
