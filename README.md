@@ -2,7 +2,7 @@
 
 ## 📋 About me:
 
-    Most of all I like to make indie games on Unity. I also enjoy developing websites, designing mobile applications and writing bots in Python. In general, I am interested in everything related to programming, especially if I can show creativity there.
+Most of all I like to make indie games on Unity. I also enjoy developing websites, designing mobile applications and writing bots in Python. In general, I am interested in everything related to programming, especially if I can show creativity there.
 
 ## 💪 Skills:
 
