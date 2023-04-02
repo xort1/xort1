@@ -10,7 +10,7 @@ Most of all I like to make indie games on Unity. I also enjoy developing website
 - Python
 - HTML, CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xort1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xort1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👊 My Codewars:
 
