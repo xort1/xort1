@@ -2,15 +2,13 @@
 
 ## 📋 About me:
 
-Most of all I like to make indie games on Unity. I also enjoy developing websites, designing mobile applications and writing bots in Python. In general, I am interested in everything related to programming, especially if I can show creativity there.
+Now I am learning ASP.NET Core, but in my free time I can also write a Telegram bot in Python, make a game in Unity or create a UI design for a mobile application, website or game.
 
 ## 💪 Skills:
 
 - C, C++, C#
 - Python
 - HTML, CSS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xort1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👊 My Codewars:
 
