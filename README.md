@@ -2,7 +2,7 @@
 
 ## 📋 About me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=At+the+moment+I'm+a+React+developer,+but+who+knows+what+will+happen+next...)](https://git.io/typing-svg)
+At the moment I'm a React developer, but who knows what will happen next...
 
 ## 💪 Skills:
 
