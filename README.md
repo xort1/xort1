@@ -24,4 +24,4 @@ At the moment I'm a React developer, but who knows what will happen next...
 
 ## 💬 Social media:
 
-[<img src='https://i.ibb.co/Wvrx3JF/free-icon-vk-3670055.png' alt='vk' height='40'>](https://vk.com/uknowimsayin)  [<img src='https://i.ibb.co/w4Hmk0G/gbkj.png' alt='codewars' height='40'>](https://www.codewars.com/users/xorti)
+[<img src='https://i.ibb.co/w4Hmk0G/gbkj.png' alt='codewars' height='40'>](https://www.codewars.com/users/xorti)
